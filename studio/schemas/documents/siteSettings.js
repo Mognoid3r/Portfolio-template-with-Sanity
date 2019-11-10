@@ -21,6 +21,12 @@ export default {
       description: 'Describe your portfolio for search engines and social media.'
     },
     {
+      name: 'subtitle',
+      type: 'string',
+      title: 'Subtitle',
+      description: 'Keep it short and sweet.'
+    },
+    {
       name: 'keywords',
       type: 'array',
       title: 'Keywords',
